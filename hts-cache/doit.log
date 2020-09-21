@@ -1,0 +1,8 @@
+http://localhost -O "/home/gian/websites/conscam" -%v
+File generated automatically on Mon, 21 Sep 2020 11:37:27, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

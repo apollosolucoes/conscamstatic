@@ -1,0 +1,63 @@
+HTTrack3.49-2 launched on Mon, 21 Sep 2020 11:37:27 at http://localhost
+(winhttrack http://localhost -O "/home/gian/websites/conscam" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:39:20	Error: 	"Method Not Allowed" (405) at link localhost/xmlrpc.php (from localhost/)
+11:39:42	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2F (from localhost/)
+11:39:42	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2F&format=xml (from localhost/)
+12:41:44	Warning: 	Moved Permanently for localhost/?p=13
+12:41:44	Warning: 	File has moved from localhost/?p=13 to http://localhost/empresa/
+12:41:44	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempresa%2F (from localhost/empresa/)
+12:41:44	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempresa%2F&format=xml (from localhost/empresa/)
+13:03:08	Warning: 	Moved Permanently for localhost/?p=17
+13:03:08	Warning: 	File has moved from localhost/?p=17 to http://localhost/contato/
+13:03:08	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fcontato%2F (from localhost/contato/)
+13:03:08	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fcontato%2F&format=xml (from localhost/contato/)
+13:03:08	Warning: 	Moved Permanently for localhost/?p=337
+13:03:08	Warning: 	File has moved from localhost/?p=337 to http://localhost/empreendimento/reverse/
+13:03:08	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Freverse%2F (from localhost/empreendimento/reverse/)
+13:03:08	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Freverse%2F&format=xml (from localhost/empreendimento/reverse/)
+13:09:34	Warning: 	Moved Permanently for localhost/?p=193
+13:09:34	Warning: 	File has moved from localhost/?p=193 to http://localhost/empreendimento/pleno/
+13:09:34	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fpleno%2F (from localhost/empreendimento/pleno/)
+13:09:34	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fpleno%2F&format=xml (from localhost/empreendimento/pleno/)
+13:09:34	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/empreendimento/domum/ (from localhost/empreendimento/vivant/)
+13:09:34	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/?p=154 (from localhost/empreendimento/vivant/)
+13:09:34	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fvivant%2F (from localhost/empreendimento/vivant/)
+13:09:34	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fvivant%2F&format=xml (from localhost/empreendimento/vivant/)
+13:09:35	Warning: 	Retry after error -2 (Receive Time Out) at link localhost/wp-content/uploads/2020/09/Vivant.jpg (from localhost/empreendimento/vivant/)
+13:09:35	Warning: 	Moved Permanently for localhost/?p=171
+13:09:35	Warning: 	File has moved from localhost/?p=171 to http://localhost/trabalhe-conosco/
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftrabalhe-conosco%2F (from localhost/trabalhe-conosco/)
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Ftrabalhe-conosco%2F&format=xml (from localhost/trabalhe-conosco/)
+13:09:35	Warning: 	Moved Permanently for localhost/?p=195
+13:09:35	Warning: 	File has moved from localhost/?p=195 to http://localhost/empreendimento/drummond/
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fdrummond%2F (from localhost/empreendimento/drummond/)
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fdrummond%2F&format=xml (from localhost/empreendimento/drummond/)
+13:09:35	Warning: 	Moved Permanently for localhost/?p=188
+13:09:35	Warning: 	File has moved from localhost/?p=188 to http://localhost/empreendimento/solaris/
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fsolaris%2F (from localhost/empreendimento/solaris/)
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fsolaris%2F&format=xml (from localhost/empreendimento/solaris/)
+13:09:35	Warning: 	Moved Permanently for localhost/?p=168
+13:09:35	Warning: 	File has moved from localhost/?p=168 to http://localhost/empreendimento/contemporaneo/
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fcontemporaneo%2F (from localhost/empreendimento/contemporaneo/)
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fcontemporaneo%2F&format=xml (from localhost/empreendimento/contemporaneo/)
+13:09:35	Warning: 	Moved Permanently for localhost/?p=166
+13:09:35	Warning: 	File has moved from localhost/?p=166 to http://localhost/empreendimento/mio/
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fmio%2F (from localhost/empreendimento/mio/)
+13:09:35	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fmio%2F&format=xml (from localhost/empreendimento/mio/)
+13:10:36	Warning: 	Moved Permanently for localhost/?p=154
+13:10:36	Warning: 	File has moved from localhost/?p=154 to http://localhost/empreendimento/vivant/
+13:10:36	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fvivant%2F (from localhost/empreendimento/vivant/)
+13:10:36	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fvivant%2F&format=xml (from localhost/empreendimento/vivant/)
+13:10:36	Warning: 	Moved Permanently for localhost/?p=124
+13:10:36	Warning: 	File has moved from localhost/?p=124 to http://localhost/empreendimento/domum/
+13:10:36	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fdomum%2F (from localhost/empreendimento/domum/)
+13:10:36	Error: 	"Not Found" (404) at link localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fempreendimento%2Fdomum%2F&format=xml (from localhost/empreendimento/domum/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 33 minutes 15 seconds : 284 links scanned, 242 files written (114467812 bytes overall) [114535897 bytes received at 20471 bytes/sec]
+(25 errors, 27 warnings, 0 messages)
